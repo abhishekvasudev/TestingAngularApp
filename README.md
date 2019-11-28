@@ -1,2 +1,0 @@
-# TestingAngularApp
-Created with CodeSandbox
